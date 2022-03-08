@@ -34,6 +34,7 @@ Olá!! Eu sou o André Marcos  👋
   <a href = "mailto:andrebmarcos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andré-marcos-963aa4186" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+    ![Snake Animation](https://github.com/andrebmarcos/andrebmarcos/tree/main/.github/workflows/cobrinha.yml)
  
  
 </div>
