@@ -6,7 +6,6 @@ Olá!! Eu sou o André Marcos  👋
 - 🌱 Estudando Python, SQL e Segurança da Informação
 - 💬 O essencial é invisivel aos olhos
 - 📫 Contate-me no email: andrebmarcos@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/andrebmarcos">
