@@ -3,7 +3,8 @@ Olá!! Eu sou o André Marcos  👋
 
 
 - 🔭 Hoje em dia eu trabalho com DBA SQL SERVER
-- 🌱 Estudando Python, SQL e Segurança da Informação
+- 🎓 Sou formado em Segurança da Informação 
+- 🌱 Estudando Python, SQL e Ciência de Dados
 - 💬 O essencial é invisivel aos olhos
 - 📫 Contate-me no email: andrebmarcos@gmail.com
 
